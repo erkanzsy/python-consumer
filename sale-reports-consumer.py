@@ -56,6 +56,5 @@ class SaleReportsConsumer:
                 raise
 
 
-
 if __name__ == "__main__":
     SaleReportsConsumer().start()
